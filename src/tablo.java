@@ -55,7 +55,7 @@ public class tablo extends javax.swing.JFrame {
 
         jLabel3.setText("  iletişim numarası :");
 
-        jLabel4.setText("  araç plakası :");
+        jLabel4.setText("  araç plaka :");
 
         jLabel5.setText("  giriş saati :");
 
